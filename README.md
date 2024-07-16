@@ -8,6 +8,13 @@
 
 <br>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=cassianowalicoski01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20est%C3%A1tisticas:" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cassianowalicoski01&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -22,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cassianowalicoski01&theme=ocean-gradient&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+###
 
 </div>
