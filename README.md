@@ -1,5 +1,7 @@
 <!--<img width=100% src="https://github.com/user-attachments/assets/028cc404-839d-4faf-84b2-087549f143d7" />-->
 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=60&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Cassiano!)](https://git.io/typing-svg)
 
 <br>
