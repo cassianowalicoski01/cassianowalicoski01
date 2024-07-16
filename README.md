@@ -9,7 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cassianowalicoski01&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas:" height="150" alt="languages graph"  />
 </div>
 
-<br><br>
+<br>
+ㅤ
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
